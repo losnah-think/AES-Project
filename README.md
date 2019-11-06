@@ -20,43 +20,55 @@ AES 암호는 미국 표준으로써 암호화를 적용하는 다양한 분야�
 
 ## 구현 내역 : 
 - 테스트를 위한 10만자 데이터
-    <a href="https://ibb.co/kMxYfmr"><img src="https://i.ibb.co/yVXL14M/10.png" alt="10" border="0"></a>
+
+    <a href="https://ibb.co/kMxYfmr"><img src="https://i.ibb.co/yVXL14M/10.png" alt="10" border="0"></a><br>
 
 - C 실행 도움말
-    <a href="https://ibb.co/tLVP7qB"><img src="https://i.ibb.co/dm8JdPB/image.png" alt="image" border="0"></a>
+    <a href="https://ibb.co/tLVP7qB"><img src="https://i.ibb.co/dm8JdPB/image.png" alt="image" border="0"></a><br>
 
 - C 암호화 실행
-    <a href="https://ibb.co/DWtZp7t"><img src="https://i.ibb.co/T2ksLHk/image.png" alt="image" border="0"></a>
+
+    <a href="https://ibb.co/DWtZp7t"><img src="https://i.ibb.co/T2ksLHk/image.png" alt="image" border="0"></a><br>
 
 - C 암호화 실행 결과
-    <a href="https://ibb.co/qyP7Cs5"><img src="https://i.ibb.co/xCRXYjH/image.png" alt="image" border="0"></a>
+
+    <a href="https://ibb.co/qyP7Cs5"><img src="https://i.ibb.co/xCRXYjH/image.png" alt="image" border="0"></a><br>
 
 - C 복호화
-    <a href="https://ibb.co/x5Pb0MQ"><img src="https://i.ibb.co/WKqXwc1/image.png" alt="image" border="0"></a>
+
+    <a href="https://ibb.co/x5Pb0MQ"><img src="https://i.ibb.co/WKqXwc1/image.png" alt="image" border="0"></a><br>
 
 - C 복호화 실행 결과
-    <a href="https://ibb.co/NpVWbR3"><img src="https://i.ibb.co/rM75N9t/image.png" alt="image" border="0"></a>
+
+    <a href="https://ibb.co/NpVWbR3"><img src="https://i.ibb.co/rM75N9t/image.png" alt="image" border="0"></a><br>
 
 - C 테스트 결과
-    <a href="https://ibb.co/cXWP9jM"><img src="https://i.ibb.co/tP0S69k/image.png" alt="image" border="0"></a>
+
+    <a href="https://ibb.co/cXWP9jM"><img src="https://i.ibb.co/tP0S69k/image.png" alt="image" border="0"></a><br>
 
 - C++ 실행 도움말 
-    <a href="https://ibb.co/g6kyFcW"><img src="https://i.ibb.co/1bFZJ4X/C.png" alt="C" border="0"></a>
+
+    <a href="https://ibb.co/g6kyFcW"><img src="https://i.ibb.co/1bFZJ4X/C.png" alt="C" border="0"></a><br>
 
 - C++ 암호화 실행
-    <a href="https://ibb.co/FhHhvnX"><img src="https://i.ibb.co/zm6mcNF/C.png" alt="C" border="0"></a>
+
+    <a href="https://ibb.co/FhHhvnX"><img src="https://i.ibb.co/zm6mcNF/C.png" alt="C" border="0"></a><br>
 
 - C++ 암호화 실행 결과
-    <a href="https://ibb.co/RThMSMc"><img src="https://i.ibb.co/B247P7B/C.png" alt="C" border="0"></a>
+
+    <a href="https://ibb.co/RThMSMc"><img src="https://i.ibb.co/B247P7B/C.png" alt="C" border="0"></a><br>
 
 - C++ 복호화
-    <a href="https://ibb.co/HgcwWtD"><img src="https://i.ibb.co/3hx6Dpy/C.png" alt="C" border="0"></a>
+
+    <a href="https://ibb.co/HgcwWtD"><img src="https://i.ibb.co/3hx6Dpy/C.png" alt="C" border="0"></a><br>
 
 - C++ 복호화 결과 
-    <a href="https://ibb.co/rFKbMvz"><img src="https://i.ibb.co/HBLNYXb/C.png" alt="C" border="0"></a>
+
+    <a href="https://ibb.co/rFKbMvz"><img src="https://i.ibb.co/HBLNYXb/C.png" alt="C" border="0"></a><br>
 
 - C++ 테스트 결과
-    <a href="https://imgbb.com/Lz1fNXV"><img src="https://i.ibb.co/6RF5X7j/C.png" alt="C" border="0"></a>
+
+    <a href="https://imgbb.com/Lz1fNXV"><img src="https://i.ibb.co/6RF5X7j/C.png" alt="C" border="0"></a><br>
 
 ## 프로젝트 내 역할 :
 - C언어 기반 AES 오픈소스 기반 프로그램 제작.
