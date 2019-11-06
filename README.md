@@ -102,5 +102,3 @@ https://github.com/SongLee24/AES-DES/tree/master/Aes
 < C++ base64>
 https://stackoverflow.com/questions/342409/how-do-i-base64-encode-decode-in-c
 
-## Git :
-https://github.com/9992/AES-Project
